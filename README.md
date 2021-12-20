@@ -10,3 +10,4 @@ Here are my food options:
 
 * chirashi don
 * chicken rice
+* fish porridge
